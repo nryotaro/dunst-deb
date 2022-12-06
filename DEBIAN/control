@@ -1,0 +1,5 @@
+Package: dunst
+Version: 1.9.0
+Maintainer: Ryotaro Nakamura <nakamura.ryotaro.kzs@gmail.com>
+Architecture: amd64
+Description: self-built dunst
